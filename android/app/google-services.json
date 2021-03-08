@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503610113333",
+    "project_id": "bgn-university-hack-rem-1006",
+    "storage_bucket": "bgn-university-hack-rem-1006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503610113333:android:dfa2b16c996c5f7c6a207c",
+        "android_client_info": {
+          "package_name": "com.example.oreo_sign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503610113333-eilqc7jp2qlgkqffmve2261o1hu2mo0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWSwLUgqq5bmF6iI6oYASWZZys7mz1pOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503610113333-eilqc7jp2qlgkqffmve2261o1hu2mo0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
